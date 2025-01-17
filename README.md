@@ -17,5 +17,7 @@ bun run start
 
 ## ❤️ Credits
 Luxica - Writing the base code
+
 Pukima - Improving the code and putting it on GitHub
+
 Emilia - Idea
