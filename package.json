@@ -1,0 +1,29 @@
+{
+  "name": "discord-flag-remover",
+  "module": "index.ts",
+  "type": "module",
+  "author": {
+    "name": "Luxica"
+  },
+  "contributors": [
+    {
+      "name": "Pukima",
+      "email": "me@pukima.site",
+      "url": "https://pukima.site"
+    }
+  ],
+  "scripts": {
+    "start": "bun index.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  }
+}
